@@ -7,6 +7,7 @@ public class CalculMath {
 		for (int k = val; k > 0; k--) {
 			result *=k;
 		}
+		return result;
 		
 	}
 }
